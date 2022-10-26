@@ -1,2 +1,3 @@
-# student is a repo where
-we store some cpp codes for easy retrieval
+# Student is a repo where
+We store some cpp codes for quick retrieval
+It acts as a handbook of codes required frequently. 
