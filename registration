@@ -28,9 +28,9 @@ int main(){
 	Student s[5];
 	int count=0;
 	while(1){
-		cout<<"Enter 1 to enter details"<<endl;
-		cout<<"Enter 2 to see all the details"<<endl;
-		cout<<"Enter 0 to exit."<<endl;
+		cout<<"Enter : 1 to enter details"<<endl;
+		cout<<"\t  2 to see all the details"<<endl;
+		cout<<"\t  0 to exit."<<endl;
 		int i=0;
 		cin>>i;
 		switch(i){
