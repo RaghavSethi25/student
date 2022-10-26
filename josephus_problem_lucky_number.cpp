@@ -13,8 +13,7 @@ int main(int argc,char* argv[])
     int  n,k;
     cin>>n>>k;
     cout<<lucky_index(n,k);
-
-       
- 
     
+    // Should return int
+    return 0;
 }
